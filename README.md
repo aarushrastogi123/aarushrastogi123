@@ -83,17 +83,14 @@ A deep learning-based system for retinal disease classification.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aarushrastogi123&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushrastogi123&theme=tokyonight&hide_border=true" height="170"/>
-
+  <img src="https://github-readme-stats-kappa-seven-91.vercel.app/api?username=aarushrastogi123&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+</p>
+<p> 
+  <img src="https://streak-stats.demolab.com?user=aarushrastogi123&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushrastogi123&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats-kappa-seven-91.vercel.app/api/top-langs/?username=aarushrastogi123&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
