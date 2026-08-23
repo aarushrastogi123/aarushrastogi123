@@ -18,6 +18,9 @@ Building projects at the intersection of **Artificial Intelligence, Machine Lear
   <a href="https://aarushrastogi.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/Ib2LekA9Pj/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 </div>
