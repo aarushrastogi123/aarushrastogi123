@@ -85,7 +85,7 @@ A deep learning-based system for retinal disease classification.
 <p align="center">
   <img src="https://github-readme-stats-kappa-seven-91.vercel.app/api?username=aarushrastogi123&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
 </p>
-<p> 
+<p align="center"> 
   <img src="https://streak-stats.demolab.com?user=aarushrastogi123&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
