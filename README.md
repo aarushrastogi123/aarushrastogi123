@@ -69,7 +69,7 @@ A deep learning-based system for retinal disease classification.
 
 **Tech Stack:** Python, TensorFlow, CNNs, NumPy, Pandas
 
-🔗 [View Repository](https://github.com/aarushrastogi123/VisionDX)
+🔗 [View Repository](https://github.com/aarushrastogi123/VisionDX-NEW)
 
 ---
 
